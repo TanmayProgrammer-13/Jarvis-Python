@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://onereach.ai/wp-content/uploads/2015/09/jarvis-ui.jpg)
+![App Screenshot](https://mrprogrammer.in/wp-content/uploads/2022/08/JARVIS-Thumbnail-930x620.jpg)
 
 
 # Jarvis In Python
